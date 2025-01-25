@@ -11,13 +11,13 @@
           Hey!
         </h1>
         <p class="mt-5 font-body max-w-rg sm:text-xl/relaxed text-right text-white">
-          Welcome to my site :)
+          Welcome to my page
         </p>
         <p class="mt-5 font-body max-w-lg sm:text-xl/relaxed text-right text-slate-100">
-          Honestly, i am Junior DevOps Engineer with experience in Linux server administration, Docker container development and writing playbooks for Ansible.
+          My name is Nikita, i am Junior DevOps Engineer with experience in Linux server administration, Docker container development and writing playbooks for Ansible.
         </p>
         <p class="mt-5 font-body max-w-lg sm:text-xl/relaxed text-right text-white">
-          But wrote this page purely for fun. 
+          Wrote this page purely for fun :)
         </p>
       </div>
     </div>
